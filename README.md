@@ -28,8 +28,8 @@ the script creates a listener in the deadline monitor which:
 >     3 -  path to background image 
 >     4 -  outputpath
 
-- if ppStatus is 0 the vbs script gets called
-- if successfull (errorcode 99 from vbs) the ppStatus(ExtraInfo1)  gets set to 2
+- if ppStatus is 0 the __vbs script__ gets called with the parameters 2-4
+- if successfull (errorcode 99 from vbs) the PostProductionStatus(ExtraInfo1) gets set to 2
 
 ***
 
