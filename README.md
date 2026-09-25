@@ -1,6 +1,8 @@
 
 # Carpet Creation Documentation
-short list of the scripts with Discription
+Shelved tool to procedurally create carpets based the clients original specifications.
+Uses 3DS Max, Forest Pack and Railclone and AWS Deadline to create and render the geometry.
+The product rendering will be batch composited into existing room renderings.
 
 
 
